@@ -1,0 +1,8 @@
+Cluj-Napoca Cluj 286598 municipiu 2150000.00
+Turda Cluj 47744 municipiu 210000.00
+Floresti Cluj 52735 comuna 98000.00
+Sibiu Sibiu 134309 municipiu 1050000.00
+Cisnadie Sibiu 14282 oras 42000.00
+Rasinari Sibiu 5150 comuna 12500.00
+Gilau Cluj 8536 comuna 21000.00
+Salistea Sibiu 1260 sat 3200.00
